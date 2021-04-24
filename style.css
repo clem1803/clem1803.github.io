@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 4;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: rgb(71, 71, 71);
+  }
+
+
+.white{
+    color: #ffffff;
+}
+
+.blue-green-front{
+    color: #1eba95;
+}
+
+.blue-green-background{
+    background-color: #1eba95;
+}
+
+.big-header{
+    font-size: 55px;
+}
+
+.left-float-box{
+    height: 240px;
+    position: fixed;
+    width: 240px;
+    float: left;
+    position: relative;
+}
+
+.b {
+    display: inline-block;
+    position: relative;
+    margin: 1%;
+    float: left;
+    width: 160px;
+    height: 160px;
+    background-color: lightgrey;
+}
